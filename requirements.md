@@ -1,6 +1,11 @@
 # Architectural drivers
 
-1. 
+1. Тhe system should be cloud-based
+1. The system should easily scale
+1. The system should integrate and agragate info from multiple places (smart fridges, kiosk, mobile phone, Cheftec, Toast ...)
+1. budget friendly
+1. The system should have multiple entrypoints(mobile app, web, SMS ...)
+1. Security for storing customer information
 
 # Requirements:
 Availability, relability, performance - това идва от point of sales, бройка клиенти, очакваното предоставяне на услугата на други вендори
@@ -19,7 +24,7 @@ API / extendability (тоя рекуаърмънр не съм сигурен к
 - The customers have to able to find which meals that are appropriate for them
 - The custoemrs should be able to search by meal??
 - The system bring the best of knowledge to the forefront and helping customers understand what's extremely important - push messages to customers for health education or other marketing stuff
-- the system should be able to gather health information for the custoemr and advice on healty food options
+- the system should be able to gather health information for the customer and advice on healty food options
 - the system should integrate and aggregate information from the fridges and the coffee shops so that:
   - an administrator/supplier at any time should be able to understand what purchase activity is across all of our nodes
   - an administrator/supplier at any time should be able to understand what inventory is looking like across our entire network
